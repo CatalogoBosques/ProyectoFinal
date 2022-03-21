@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ProyectoFinal/static/css/main.1fd2ee01.css",
-    "main.js": "/ProyectoFinal/static/js/main.b5e84ef7.js",
+    "main.css": "/ProyectoFinal/static/css/main.57224a51.css",
+    "main.js": "/ProyectoFinal/static/js/main.64a292af.js",
     "static/media/Cover.jpg": "/ProyectoFinal/static/media/Cover.0b2bcfd452993b2c16e8.jpg",
     "static/media/geo.jpg": "/ProyectoFinal/static/media/geo.d98d11148bb0d695b78c.jpg",
     "static/media/Ejemplo.jpg": "/ProyectoFinal/static/media/Ejemplo.2980fcfaeb36a6ba9e6c.jpg",
@@ -14,11 +14,11 @@
     "static/media/hojas.jpg": "/ProyectoFinal/static/media/hojas.31ecb005384c8483dbd8.jpg",
     "static/media/LogoU.png": "/ProyectoFinal/static/media/LogoU.d39e47d2bc1d21481eea.png",
     "index.html": "/ProyectoFinal/index.html",
-    "main.1fd2ee01.css.map": "/ProyectoFinal/static/css/main.1fd2ee01.css.map",
-    "main.b5e84ef7.js.map": "/ProyectoFinal/static/js/main.b5e84ef7.js.map"
+    "main.57224a51.css.map": "/ProyectoFinal/static/css/main.57224a51.css.map",
+    "main.64a292af.js.map": "/ProyectoFinal/static/js/main.64a292af.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fd2ee01.css",
-    "static/js/main.b5e84ef7.js"
+    "static/css/main.57224a51.css",
+    "static/js/main.64a292af.js"
   ]
 }
