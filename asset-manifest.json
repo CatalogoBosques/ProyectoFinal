@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ProyectoFinal/static/css/main.8dd55515.css",
-    "main.js": "/ProyectoFinal/static/js/main.788f828a.js",
+    "main.css": "/ProyectoFinal/static/css/main.d8e937f8.css",
+    "main.js": "/ProyectoFinal/static/js/main.38941c1f.js",
     "static/media/longi.jpg": "/ProyectoFinal/static/media/longi.f2e6aecd8cdaaf939367.jpg",
     "static/media/3.jpg": "/ProyectoFinal/static/media/3.c2b10d736098a0f1926d.jpg",
     "static/media/5.jpg": "/ProyectoFinal/static/media/5.c166180b8b943f56bbd4.jpg",
@@ -32,7 +32,6 @@
     "static/media/flor.jpg": "/ProyectoFinal/static/media/flor.35420f2b7e263e76b664.jpg",
     "static/media/hojas.jpg": "/ProyectoFinal/static/media/hojas.aba209c33f12d5bf54c1.jpg",
     "static/media/24.jpg": "/ProyectoFinal/static/media/24.f8c8c7fdd526ebdc0a57.jpg",
-    "static/media/Ejemplo.jpg": "/ProyectoFinal/static/media/Ejemplo.2980fcfaeb36a6ba9e6c.jpg",
     "static/media/hoja.jpg": "/ProyectoFinal/static/media/hoja.542604bcea6e8ae89976.jpg",
     "static/media/5.png": "/ProyectoFinal/static/media/5.d7ffeedda8a33d6df0f9.png",
     "static/media/fruto.jpg": "/ProyectoFinal/static/media/fruto.68bb3411abb8d786961a.jpg",
@@ -78,14 +77,16 @@
     "static/media/LogoU.png": "/ProyectoFinal/static/media/LogoU.d39e47d2bc1d21481eea.png",
     "static/media/parenquina.JPG": "/ProyectoFinal/static/media/parenquina.f018fc19e16590977591.JPG",
     "static/media/geo.JPG": "/ProyectoFinal/static/media/geo.506baeb84521f889702b.JPG",
+    "static/media/Tipo de dispersion.png": "/ProyectoFinal/static/media/Tipo de dispersion.47c1ce03a5f32e51f721.png",
     "static/media/tipo de aberturas.jpeg": "/ProyectoFinal/static/media/tipo de aberturas.14e963bb5d0863255c90.jpeg",
     "static/media/tipo de punteaduras.JPG": "/ProyectoFinal/static/media/tipo de punteaduras.53597b5b6956f19f28b1.JPG",
+    "static/media/Categorias de amenaza.png": "/ProyectoFinal/static/media/Categorias de amenaza.4b6dd8992c6f7c51baec.png",
     "index.html": "/ProyectoFinal/index.html",
-    "main.8dd55515.css.map": "/ProyectoFinal/static/css/main.8dd55515.css.map",
-    "main.788f828a.js.map": "/ProyectoFinal/static/js/main.788f828a.js.map"
+    "main.d8e937f8.css.map": "/ProyectoFinal/static/css/main.d8e937f8.css.map",
+    "main.38941c1f.js.map": "/ProyectoFinal/static/js/main.38941c1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd55515.css",
-    "static/js/main.788f828a.js"
+    "static/css/main.d8e937f8.css",
+    "static/js/main.38941c1f.js"
   ]
 }
